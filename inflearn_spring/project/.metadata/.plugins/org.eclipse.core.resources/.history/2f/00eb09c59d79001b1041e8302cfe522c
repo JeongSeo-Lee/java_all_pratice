@@ -1,0 +1,17 @@
+package testPjt2;
+
+import testPjt2.vo.Battery;
+
+public class ElectronicCarToy {
+
+	private Battery battery;
+	
+	public ElectronicCarToy(Battery battery) {
+		this.battery = battery;
+	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "car의 배터리는 " + battery.battery + "입니다.";
+	}
+}

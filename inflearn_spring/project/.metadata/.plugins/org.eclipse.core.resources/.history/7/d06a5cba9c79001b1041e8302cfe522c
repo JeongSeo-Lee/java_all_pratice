@@ -1,0 +1,11 @@
+package testPjt2.vo;
+
+public interface Battery {
+
+	int battery = 100;
+	
+
+	void batteryCharger(Battery battery);
+	
+	
+}

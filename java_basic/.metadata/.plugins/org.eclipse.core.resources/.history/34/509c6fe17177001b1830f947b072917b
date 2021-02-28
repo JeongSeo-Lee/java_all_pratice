@@ -1,0 +1,19 @@
+class A {
+	public void method() {
+		
+	}
+}
+
+interface I{
+	public void methos() {
+		
+	}
+}
+
+
+public class InterfaceTest {
+	public static void main(String[] args){
+		
+	}
+	
+}

@@ -1,0 +1,13 @@
+class A {
+	public void method() {
+		
+	}
+}
+
+
+public class InterfaceTest {
+	public static void main(String[] args){
+		
+	}
+	
+}

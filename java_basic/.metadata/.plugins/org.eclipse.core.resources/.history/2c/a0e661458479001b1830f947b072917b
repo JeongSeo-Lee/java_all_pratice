@@ -1,0 +1,14 @@
+package com.codechobo.book;
+
+class AAA {
+	BBB b = new BBB();
+}
+
+class BBB {}
+
+class CCC {}
+
+
+public class InnerTest {
+
+}

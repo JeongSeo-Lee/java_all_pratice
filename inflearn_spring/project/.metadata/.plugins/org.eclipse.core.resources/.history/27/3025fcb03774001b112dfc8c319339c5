@@ -1,0 +1,13 @@
+package testPjt;
+
+public class MainClass {
+	public static void main(String[] args) {
+//		TranspotationWalk transpotation = new TranspotationWalk();
+//		transpotation.move();
+	
+		//ApplicationContext에서 만들어진 스프링 컨테이너에 접근하는 방법
+		
+		
+		
+	}
+}

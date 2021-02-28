@@ -1,0 +1,8 @@
+package testPjt2;
+
+import testPjt2.vo.Battery;
+
+public class ElectronicRoboyToy {
+	private Battery battery;
+	
+}

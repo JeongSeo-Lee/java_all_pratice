@@ -1,0 +1,12 @@
+package com.codechobo.book;
+
+class A {}
+
+class B {}
+
+class CCC {}
+
+
+public class InnerTest {
+
+}

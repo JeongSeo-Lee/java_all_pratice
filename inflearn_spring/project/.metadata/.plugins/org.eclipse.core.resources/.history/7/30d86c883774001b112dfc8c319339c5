@@ -1,0 +1,12 @@
+package testPjt;
+
+public class MainClass {
+	public static void main(String[] args) {
+//		TranspotationWalk transpotation = new TranspotationWalk();
+//		transpotation.move();
+	
+		
+		
+		
+	}
+}

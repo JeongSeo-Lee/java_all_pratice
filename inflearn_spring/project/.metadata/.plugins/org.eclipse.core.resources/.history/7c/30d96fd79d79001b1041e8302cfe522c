@@ -1,0 +1,9 @@
+package testPjt2.vo;
+
+public class ChargeBattery implements Battery{
+	@Override
+	public void batteryCharger(Battery battery) {
+		// TODO Auto-generated method stub
+		this.battery = (int)battery.;
+	}
+}

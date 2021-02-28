@@ -1,0 +1,4 @@
+package testPjt2.vo;
+
+public class NomalBattery implements Battery{
+}

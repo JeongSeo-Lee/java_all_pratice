@@ -1,0 +1,24 @@
+class A {
+	public void method(I i) {
+		i.method();
+	}
+}
+
+interface I{
+	public void method() ;
+}
+
+class B implements I {
+	@Override
+	public void method() {
+		// TODO Auto-generated method stub
+		System.out.println("인터페이스 테스트");
+	}
+}
+
+public class InterfaceTest {
+	public static void main(String[] args){
+		A a = new A()
+	}
+	
+}

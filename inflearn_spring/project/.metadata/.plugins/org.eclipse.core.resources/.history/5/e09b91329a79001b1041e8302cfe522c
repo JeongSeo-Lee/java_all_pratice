@@ -1,0 +1,6 @@
+package testPjt2;
+
+public class ElectronicCarToy {
+
+	private Battery battery;
+}

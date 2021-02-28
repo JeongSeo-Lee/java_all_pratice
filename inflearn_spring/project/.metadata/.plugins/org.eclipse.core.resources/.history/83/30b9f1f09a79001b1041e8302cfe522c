@@ -1,0 +1,7 @@
+package testPjt2;
+
+public class ElectronicRadioToy {
+	private Battery battery;
+	
+	
+}
